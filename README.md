@@ -1,2 +1,2 @@
-# -Restoran-Yorumlaridan-Duygu-Analizi
-Etiketlenmiş  restoran yorumları veri setinden duygu analizi projesi.
+# RestoranYorumlaridanDuyguAnalizi
+Etiketlenmiş  restoran yorumları veri setinden metin madenciliği ve duygu analizi projesi.
